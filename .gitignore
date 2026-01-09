@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# ML artifacts
+artifacts/
+*.pkl
+*.log
+
+# ML generated folders
+catboost_info/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
